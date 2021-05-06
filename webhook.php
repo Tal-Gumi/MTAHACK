@@ -1,1 +1,0 @@
-curl -X POST -H 'Content-type: application/json' --data '{"text":"Hello, World!"}' https://hooks.slack.com/services/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
